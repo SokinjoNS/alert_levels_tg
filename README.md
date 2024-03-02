@@ -33,6 +33,7 @@ alerts = get_volume_alert_details(curr_volume, prev_volume_mean, symbol, interva
 
 for alert in alerts:
  print(alert)
+```
 
 ##Customization
 Modify the thresholds list in alert_levels_tg.py to adjust the volume spike levels that trigger alerts.
