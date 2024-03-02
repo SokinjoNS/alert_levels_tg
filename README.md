@@ -35,11 +35,11 @@ for alert in alerts:
  print(alert)
 ```
 
-##Customization
+## Customization
 Modify the thresholds list in alert_levels_tg.py to adjust the volume spike levels that trigger alerts.
 
-##Contributing
+## Contributing
 Contributions to improve alert_levels_tg.py are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
-##License
+## License
 This script is released under the MIT License. 
