@@ -1,10 +1,11 @@
-# Alert Levels for KuCoin
+# Alert Levels for Telegram
 
 ## Overview
-`alert_levels_tg.py` is a Python script designed to analyze cryptocurrency trading volumes on the KuCoin exchange and generate alerts for significant volume spikes. It supports customizable alert thresholds and integrates with messaging services for notifications.
+`alert_levels_tg.py` is a Python script designed to analyze cryptocurrency trading volumes on the centralized exchanges like Binance and KuCoin and generate alerts for significant volume spikes. It supports customizable alert thresholds and integrates with messaging services for notifications.
 
 ## Features
-- Analyzes trading volume data from KuCoin.
+- Analyzes trading volume data from Binance.
+- - Analyzes trading volume data from KuCoin.
 - Generates alerts for volume spikes based on predefined thresholds.
 - Supports integration with Telegram for sending real-time notifications.
 
